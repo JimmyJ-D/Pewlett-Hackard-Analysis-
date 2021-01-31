@@ -30,3 +30,7 @@ The following table was used to create the retiring titles data:
 ### Deliverable 2: The Employees Eligible for the Mentorship Program  
 Now that Pewlett Hackard has a condensed table with employees' title, hire date, employee number, and birth date they requested a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.
 ![mentorship_eligibilty](https://github.com/JimmyJ-D/Pewlett-Hackard-Analysis-/blob/main/mentor_eligibility.png)
+
+
+#Conclusion
+Pewlett Hackard has over 90,000 employees that are eligible for retirement. While this number is large, employees enter or delay retirement for different reasons. With the silver tsunami on the horizon, Pewlett Hackard should proactively start the global recruiting process of new talent and champion their mentorship program to existing employees to replace senior engineers and staff. 
